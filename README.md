@@ -1,4 +1,3 @@
-# Fraud-Detection-Pipeline
 # Credit Card Fraud Detection - ML Pipeline
 
 This project builds a complete **machine learning classification pipeline** on the imbalanced Credit Card Fraud dataset. It follows industry-standard practices with preprocessing, feature engineering, resampling, and model evaluation.
