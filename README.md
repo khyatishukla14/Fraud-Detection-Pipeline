@@ -36,6 +36,6 @@ This project builds a complete **machine learning classification pipeline** on t
 
 ---
 
-## 📂 Project Structure
+## Project Structure
  - classification.ipynb   
  - README.md               
