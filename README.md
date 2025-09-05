@@ -4,14 +4,14 @@ This project builds a complete **machine learning classification pipeline** on t
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source**: Credit Card Fraud dataset (Kaggle)
 - **Target**: `Class` (0 = Non-Fraud, 1 = Fraud)
 - Highly imbalanced: Fraudulent transactions are very rare compared to normal ones.
 
 ---
 
-## 🔎 Methodology
+## Methodology
 1. **Exploratory Data Analysis (EDA)** with visualizations  
 2. **Feature Engineering** (log transformation of `Amount`, extracting transaction hour)  
 3. **Preprocessing Pipeline** (scaling, handling imbalance with SMOTE)  
@@ -21,7 +21,7 @@ This project builds a complete **machine learning classification pipeline** on t
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python  
 - Pandas, NumPy  
 - scikit-learn  
@@ -30,7 +30,7 @@ This project builds a complete **machine learning classification pipeline** on t
 
 ---
 
-## ✅ Results
+## Results
 - Random Forest achieved the best balance of **Precision, Recall, and ROC-AUC**.  
 - Feature engineering and SMOTE significantly improved fraud detection performance.  
 
