@@ -5,7 +5,7 @@ This project builds a complete **machine learning classification pipeline** on t
 ---
 
 ## Dataset
-- **Source**: Credit Card Fraud dataset (Kaggle)
+- **Source:** [TensorFlow Datasets - Credit Card Fraud Detection](https://www.tensorflow.org/datasets/catalog/creditcard_fraud)
 - **Target**: `Class` (0 = Non-Fraud, 1 = Fraud)
 - Highly imbalanced: Fraudulent transactions are very rare compared to normal ones.
 
